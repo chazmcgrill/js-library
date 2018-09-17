@@ -1,2 +1,2 @@
-# js-library
-Personal Javascript Library for Websites
+# Javascript Library
+Contains a toolbox of useful functions for websites
